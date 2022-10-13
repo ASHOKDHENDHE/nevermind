@@ -16,3 +16,4 @@ echo "The result of subtraction=$mul"
 #Subtraction
 (( mod=x%y ))
 echo "The result of subtraction=$mod"
+echo "Completed"
